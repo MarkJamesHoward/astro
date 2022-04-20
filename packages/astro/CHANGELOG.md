@@ -1,5 +1,11 @@
 # astro
 
+## 1.0.0-beta.15
+
+### Patch Changes
+
+- [#3138](https://github.com/withastro/astro/pull/3138) [`37a7a834`](https://github.com/withastro/astro/commit/37a7a8347ce49cb773ed907260ffe169bd3aa15f) Thanks [@natemoo-re](https://github.com/natemoo-re)! - General HMR Improvements, including new HMR support for framework components that are only server-side rendered (do not have a `client:*` directive)
+
 ## 1.0.0-beta.14
 
 ### Patch Changes
